@@ -11,7 +11,7 @@ DO NOT USE ABSTRACT CLASSES. You are free to name your interfaces and concrete c
 
 
 # Unified-Modeling Language (UML)
-
+<img width="1490" alt="UML_VISITOR_PATTERN_A4" src="https://github.com/VinceTedChua/visitorPattern2/assets/142372312/4adea872-c1b7-4712-b84e-69ad6f71142b">
 
 
 
