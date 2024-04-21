@@ -1,5 +1,5 @@
 public interface Shopee {
-    void shop(Chair chair);
-    void shop(Table table);
-    void shop(Sofa sofa);
+    public void shop(Chair chair);
+    public void shop(Table table);
+    public void shop(Sofa sofa);
 }

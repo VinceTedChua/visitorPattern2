@@ -1,3 +1,3 @@
 public interface Furniture {
-  void accept(Shopee shopee);
+  public void accept(Shopee shopee);
 }
