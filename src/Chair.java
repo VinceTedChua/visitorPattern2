@@ -10,7 +10,7 @@ class Chair implements Furniture {
     }
 
     //chair is connected through this
-    public void accept(Shopper shopper) {
-        shopper.shop(this);
+    public void accept(Shopee shopee) {
+        shopee.shop(this);
     }
 }
