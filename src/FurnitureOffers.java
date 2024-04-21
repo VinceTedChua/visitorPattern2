@@ -14,6 +14,7 @@ public class FurnitureOffers {
         FurnitureType sofas = new FurnitureType("Sofas");
 
         FurnitureShippingCost promo = new FurnitureShippingCost();
+        //we named the Furniture with promo to integrate it to the main method cycle inducing its idea
         Scanner sc = new Scanner(System.in);
         boolean choice = true; //sets the condition to stop the cycle
 

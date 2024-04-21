@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf5d113c-2e73-488a-be42-4a4d20cd38b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FurnitureOffers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FurnitureShippingCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FurnitureType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sofa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visitorPattern2.iml" afterDir="false" />
-    </list>
+    <list default="true" id="cf5d113c-2e73-488a-be42-4a4d20cd38b9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
