@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf5d113c-2e73-488a-be42-4a4d20cd38b9" name="Changes" comment="" />
+    <list default="true" id="cf5d113c-2e73-488a-be42-4a4d20cd38b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/FurnitureShippingCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FurnitureShippingCost.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
