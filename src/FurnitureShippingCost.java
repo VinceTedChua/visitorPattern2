@@ -9,7 +9,7 @@ class FurnitureShippingCost implements Shopee {
 
     public void shop(Table table) {
         int minVal = 10000;
-        int flatShippingRate = minVal * 15 / 100; // Assuming a base price of 10000 for tables and 10% is deducted for shipping
+        int flatShippingRate = minVal * 15 / 100; // Assuming a base price of 10000 for tables and 15% is deducted for shipping
         System.out.println("The price shipping of the table: PHP" + flatShippingRate);
     }
 
